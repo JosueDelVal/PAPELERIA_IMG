@@ -1,2 +1,2 @@
-# PAPE_IMG
+# PAPELERIA_IMG
 Aquí guardo imagenes
